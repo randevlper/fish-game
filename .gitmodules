@@ -1,0 +1,3 @@
+[submodule "thirdparty/memoire-engine"]
+	path = thirdparty/memoire-engine
+	url = git@github.com:randevlper/memoire-engine.git
